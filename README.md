@@ -6,6 +6,10 @@ For created project use:
 
 ### `npm new react {nombre}`
 
+For download dependences
+
+### `npm install`
+
 ## Available Scripts
 
 In the project directory, you can run:
